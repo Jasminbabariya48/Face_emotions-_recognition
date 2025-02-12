@@ -1,3 +1,3 @@
 # Face_emotions-_recognition
 Face Emotion Recognition using AI/ML to classify emotions from facial expressions. It leverages deep learning with OpenCV, TensorFlow/Keras, and CNNs to detect emotions like happy, sad, angry, and surprised. Features include dataset preprocessing, model training, and real-time detection, useful for sentiment analysis, HCI, and surveillance.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAruneshTamboli%2FFace-Emotion-Recognition&psig=AOvVaw0YRuMmXwjwMPHJVOcyam9k&ust=1739462441437000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjC-uPBvosDFQAAAAAdAAAAABAE
+![Image](https://github.com/user-attachments/assets/2f4c7cae-bee4-42bd-9e00-3c13beca8a2e)
